@@ -1,0 +1,26 @@
+{
+  "name": "cpfbuscas-examples/cpfbuscas-api-plus-php",
+  "description": "API Plus em PHP: fluxo de cadastro com cnpj e cep, Bearer, JSON e limite de 60 req/min.",
+  "type": "project",
+  "license": "MIT",
+  "require": {
+    "php": ">=8.2",
+    "ext-curl": "*",
+    "ext-json": "*"
+  },
+  "scripts": {
+    "test": "php tests/run.php"
+  },
+  "keywords": [
+    "php",
+    "cpfbuscas",
+    "api-rest",
+    "consulta-cnpj",
+    "consulta-cpf",
+    "consulta-cep",
+    "curl",
+    "json",
+    "exemplos-php",
+    "api-plus"
+  ]
+}
